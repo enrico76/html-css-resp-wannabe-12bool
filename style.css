@@ -5,3 +5,8 @@ margin-top: 5%;
 img{
   height: 200px;
 }
+#why.row img {
+  background-color:#428bca;
+  border-radius:50%;
+  padding:30px
+}
